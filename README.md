@@ -48,7 +48,7 @@ for installation instructions for your operating system.
 Once Julia is installed, you can install this package using:
 ```julia
 import Pkg
-Pkg.add(url="https://github.com/herzfeldd/flocculusclassifier2025.git")
+Pkg.add(url="https://github.com/herzfeldd/FlocculusClassifier2025.jl.git")
 ```
 
 These commands will download all necessary software packages as well as the pre-trained classifier models. 
