@@ -1,0 +1,7 @@
+[acg_acg3d_waveform_lfp_classifier]
+git-tree-sha1 = "50c65cc2e3b9a167aee2635a28ce134487d75cd0"
+lazy = true
+
+    [[acg_acg3d_waveform_lfp_classifier.download]]
+    sha256 = "16481fa29ec317b6ffa5b5f182ed9cc6ed2760922827058b370be1385a115e20"
+    url = "https://osf.io/download/5ey6u/"
